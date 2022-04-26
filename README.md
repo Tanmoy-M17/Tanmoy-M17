@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Tanmoy-M17&style=flat&color=brightgreen"> -->
-  <img src="https://img.shields.io/github/stars/rubyroy21?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://img.shields.io/github/stars/Tanmoy-M17?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 ## 🚀 Languages and Tools:
@@ -57,7 +57,7 @@
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmoy-M17&show_icons=true&locale=en&theme=highcontrast" alt="Tanmoy-M172" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmoy-M17&show_icons=true&locale=en&theme=highcontrast" alt="Tanmoy-M17" /></p>
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmoy-M17&&theme=highcontrast" alt="Tanmoy-M17" /></p>
