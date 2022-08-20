@@ -31,13 +31,14 @@
 </p>
 
 ## 🚀 Languages and Tools:
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tanmoy-M17" alt="sarkarsubho" /></a> </p>
  <p align="center" >
   <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
   </p>
 
 <br/>
-<p align="center"><img alt="Tanmoy Mondal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-M17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+
+<p align="center"><img alt="Tanmoy Mondal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmoy-M17&show_icons=true&locale=en&layout=compact" />
        
 </p>
 
