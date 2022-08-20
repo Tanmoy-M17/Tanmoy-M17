@@ -32,7 +32,7 @@
 
 ## 🚀 Languages and Tools:
 
-<!-- <p align="left"> 
+<p align="left"> 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -44,7 +44,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   
-</p> -->
+</p>
  <p align="center" >
   <img  src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png">
   </p>
@@ -75,6 +75,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/tanmoy-mondal-73947b233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.facebook.com/profile.php?id=100041837441400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhankar sarkar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/slayertanmoy__mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subho0905" height="30" width="40" /></a>
+
  * Mail me on tanmoymondal17e@gmail.com
 
 </p>
